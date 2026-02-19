@@ -3,8 +3,9 @@ name: transcendentals-integration
 description: Demonstrate the convertibility and mutual dependence of beauty, goodness, and truth - restoring wholeness when one has been separated from the others.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5213
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transcendentals-integration
 - writing
